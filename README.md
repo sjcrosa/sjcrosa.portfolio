@@ -1,2 +1,2 @@
 # sjcrosa.portfolio
-My portfolio website
+My very basic portfolio website
